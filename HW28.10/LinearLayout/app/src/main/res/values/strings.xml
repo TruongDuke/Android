@@ -1,0 +1,31 @@
+<resources>
+    <!-- Tên ứng dụng -->
+    <string name="app_name">LinearLayout</string>
+
+    <!-- Màn hình hiển thị -->
+    <string name="display_default" translatable="false">0</string>
+
+    <!-- Nút chức năng -->
+    <string name="key_ce" translatable="false">CE</string>
+    <string name="key_c" translatable="false">C</string>
+    <string name="key_bs" translatable="false">BS</string>
+    <string name="key_div" translatable="false">/</string>
+    <string name="key_mul" translatable="false">x</string>
+    <string name="key_sub" translatable="false">-</string>
+    <string name="key_add" translatable="false">+</string>
+    <string name="key_sign" translatable="false">+/-</string>
+    <string name="key_dot" translatable="false">.</string>
+    <string name="key_eq" translatable="false">=</string>
+
+    <!-- Các số -->
+    <string name="d0" translatable="false">0</string>
+    <string name="d1" translatable="false">1</string>
+    <string name="d2" translatable="false">2</string>
+    <string name="d3" translatable="false">3</string>
+    <string name="d4" translatable="false">4</string>
+    <string name="d5" translatable="false">5</string>
+    <string name="d6" translatable="false">6</string>
+    <string name="d7" translatable="false">7</string>
+    <string name="d8" translatable="false">8</string>
+    <string name="d9" translatable="false">9</string>
+</resources>
